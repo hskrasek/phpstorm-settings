@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="918e7997-739b-40c2-8cc7-061ec787ed02" name="Vagrant" url="http://perk-api-v2.localhost:8080">
+        <fileTransfer host="localhost" port="2222" privateKey="$USER_HOME$/.vagrant.d/insecure_private_key" rootFolder="/home/vagrant" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
