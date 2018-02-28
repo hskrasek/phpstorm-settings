@@ -18,4 +18,16 @@
     <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="docid" value="/**&#10;* @var integer&#10;*&#10;* @ORM\Column(name=&quot;id&quot;, type=&quot;integer&quot;, nullable=false)&#10;* @ORM\Id&#10;* @ORM\GeneratedValue(strategy=&quot;IDENTITY&quot;)&#10;*/" description="Doctrine ID definition" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="doccol" value="/**&#10;* @var $TYPE$&#10;*&#10;* @ORM\Column(name=&quot;$NAME$&quot;, type=&quot;$END$&quot;)&#10;*/" description="Doctrine column definition" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
