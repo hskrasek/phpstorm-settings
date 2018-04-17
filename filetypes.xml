@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern=".env.bamboo" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
