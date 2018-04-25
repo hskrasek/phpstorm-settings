@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="Tool_External Tools_PHP Code Beautifier">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+</keymap>
