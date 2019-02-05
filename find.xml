@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/api/FixedPriceRoofing/SubmitInspectionWithinCoverageCest.php [acceptance-tests]'" />
-    <option name="defaultScopeName" value="File '.../tests/api/FixedPriceRoofing/SubmitInspectionWithinCoverageCest.php [acceptance-tests]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/api/FixedPriceRoofing/SubmitInspectionWithinCoverageCest.php [acceptance-tests]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
