@@ -7,6 +7,7 @@
       <mapping pattern="migrations" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.bamboo" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping ext="com_leads_master" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
