@@ -11,4 +11,7 @@
   <action id="Tool_External Tools_PHP Code Beautifier">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="Tool_External Tools_PHP Code Beautifier (PSR12)">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
 </keymap>

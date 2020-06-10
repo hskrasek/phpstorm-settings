@@ -6,10 +6,10 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PHP Code Beautifier (PSR12)" description="Fixes PHP code style (PSR12)" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix --verbose --config=.php_cs.dist --path-mode=intersection &quot;$FileDir$/$FileName$&quot;" />
+      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="--standard=PSR12 $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
