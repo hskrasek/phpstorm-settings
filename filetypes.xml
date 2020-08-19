@@ -12,6 +12,7 @@
       <mapping ext="com_leads_master" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="executions" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
