@@ -13,6 +13,7 @@
       <mapping ext="executions" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="steps" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
