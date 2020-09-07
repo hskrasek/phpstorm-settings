@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
@@ -14,6 +15,8 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="steps" type="PLAIN_TEXT" />
+      <mapping pattern="bootstrap-horizon" type="Shell Script" />
+      <mapping pattern="runit-supervisord" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
