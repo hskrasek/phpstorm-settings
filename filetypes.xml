@@ -20,6 +20,7 @@
       <mapping pattern="bootstrap-horizon" type="Shell Script" />
       <mapping pattern="runit-supervisord" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="proto" approved="true" type="PROTO" />
     </extensionMap>
   </component>
 </application>
