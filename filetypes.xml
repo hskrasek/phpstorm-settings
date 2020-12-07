@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
+      <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern="runit-laravel_scheduler" type="PLAIN_TEXT" />
