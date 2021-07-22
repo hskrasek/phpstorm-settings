@@ -4,6 +4,7 @@
       <mapping pattern="runsvinit" type="AUTO_DETECTED" />
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
+      <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern="runit-laravel_scheduler" type="PLAIN_TEXT" />
@@ -14,7 +15,6 @@
       <mapping pattern="migrations" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="runit-exit_cleanup" type="PLAIN_TEXT" />
       <mapping ext="steps" type="PLAIN_TEXT" />
       <mapping ext="com_leads_master" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
