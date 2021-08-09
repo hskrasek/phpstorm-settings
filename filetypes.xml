@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="runsvinit" type="AUTO_DETECTED" />
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
+      <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
