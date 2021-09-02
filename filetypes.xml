@@ -5,7 +5,6 @@
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
       <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
-      <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -21,14 +20,15 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="executions" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="runit-supervisord" type="Shell Script" />
+      <mapping pattern="bootstrap-horizon" type="Shell Script" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="proto" approved="true" type="PROTO" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
-      <mapping pattern="bootstrap-horizon" type="Shell Script" />
-      <mapping pattern="runit-supervisord" type="Shell Script" />
+      <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
     </extensionMap>
   </component>
 </application>
