@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Documents/Projects/client-profiles/docker/bin/bootstrap-web" value="BashPro Shell Script" />
+    <file url="file://$USER_HOME$/Documents/Projects/client-profiles/docker/bin/runit-laravel_scheduler" value="Shell Script" />
   </component>
 </application>
