@@ -3,9 +3,11 @@
     <extensionMap>
       <mapping pattern="runsvinit" type="AUTO_DETECTED" />
       <mapping pattern="runit-nginx" type="AUTO_DETECTED" />
+      <mapping pattern="runit-scheduler" type="AUTO_DETECTED" />
       <mapping pattern="runit-horizon" type="AUTO_DETECTED" />
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
       <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
+      <mapping pattern="runit-cleanup" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="tsv" type="CSV/TSV" />
