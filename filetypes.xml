@@ -9,6 +9,7 @@
       <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
       <mapping pattern="runit-cleanup" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
+      <mapping ext="py" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
