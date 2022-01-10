@@ -20,4 +20,11 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.new.stripes.ui" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="webDeployment.default.server.widget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
