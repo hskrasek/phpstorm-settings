@@ -28,6 +28,7 @@
       <mapping pattern="runit-supervisord" type="Shell Script" />
       <mapping pattern="bootstrap-horizon" type="Shell Script" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="proto" approved="true" type="PROTO" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
