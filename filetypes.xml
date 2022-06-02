@@ -10,6 +10,7 @@
       <mapping pattern="runit-cleanup" type="AUTO_DETECTED" />
       <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping ext="py" type="AUTO_DETECTED" />
+      <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -32,7 +33,6 @@
       <removed_mapping ext="proto" approved="true" type="PROTO" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
-      <mapping pattern="runit-exit_cleanup" type="BashPro Shell Script" />
     </extensionMap>
   </component>
 </application>
