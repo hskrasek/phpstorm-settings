@@ -63,6 +63,7 @@
             <extension name="odbc" />
             <extension name="openssl" />
             <extension name="pcntl" />
+            <extension name="pcov" />
             <extension name="pcre" />
             <extension name="pdo_dblib" />
             <extension name="pdo_mysql" />
