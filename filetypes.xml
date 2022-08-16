@@ -5,9 +5,6 @@
       <mapping pattern="runit-nginx" type="AUTO_DETECTED" />
       <mapping pattern="runit-scheduler" type="AUTO_DETECTED" />
       <mapping pattern="runit-horizon" type="AUTO_DETECTED" />
-      <mapping pattern="google_credentials" type="AUTO_DETECTED" />
-      <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
-      <mapping pattern="runit-horizon" type="AUTO_DETECTED" />
       <mapping pattern="cnct-228" type="AUTO_DETECTED" />
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
       <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
