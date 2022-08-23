@@ -3,29 +3,30 @@
     <extensionMap>
       <mapping pattern="runsvinit" type="AUTO_DETECTED" />
       <mapping pattern="runit-nginx" type="AUTO_DETECTED" />
-      <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
       <mapping pattern="runit-scheduler" type="AUTO_DETECTED" />
-      <mapping pattern="runit-cleanup" type="AUTO_DETECTED" />
       <mapping pattern="runit-horizon" type="AUTO_DETECTED" />
-      <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping pattern="google_credentials" type="AUTO_DETECTED" />
+      <mapping pattern="bootstrap-web" type="AUTO_DETECTED" />
+      <mapping pattern="runit-cleanup" type="AUTO_DETECTED" />
+      <mapping pattern="UpdateClientReview" type="AUTO_DETECTED" />
       <mapping ext="py" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile-local" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="GitIgnore file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.bamboo" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="runit-laravel_scheduler" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-entrypoint" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="migrations" type="PLAIN_TEXT" />
       <mapping ext="steps" type="PLAIN_TEXT" />
       <mapping ext="com_leads_master" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="executions" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-horizon" type="Shell Script" />
       <mapping pattern="runit-supervisord" type="Shell Script" />
+      <mapping pattern="bootstrap-horizon" type="Shell Script" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <removed_mapping ext="proto" approved="true" type="PROTO" />
